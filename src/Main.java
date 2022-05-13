@@ -47,7 +47,7 @@ check if the phoneNumber provided is not up to 11 and also insert the public cla
                     System.out.println("user exist");
                 }
                 else{
-                    System.out.println("user does not exist");
+                    System.out.println("use does not exist");
                 }
             }
 
